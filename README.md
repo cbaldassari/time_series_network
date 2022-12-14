@@ -12,4 +12,12 @@ mation of the observed data to initialize the Expectation-Maximization algorithm
 ior and nonlinear interactions between observations. We applied the proposed methodology for estimating Gaussian Mixture Models on the US wholesale electricity market. Results show that our method-
 ology performs well by outperforming more established approaches.
 
+## Reproducing the results
 
+The provided Python [notebook](https://github.com/cbaldassari/time_series_network/blob/main/time_series_network.ipynb) contains the code that implements the method of initialization we propose in the paper and covers all the paper's workflow.
+
+## Getting the code
+You can download a copy of all the files in this repository by cloning the
+[git](https://github.com/cbaldassari/time_series_network) repository:
+    git clone https://github.com/cbaldassari/time_series_network
+or [download a zip archive](https://github.com/cbaldassari/time_series_network/archive/refs/heads/main.zip).
