@@ -1,4 +1,4 @@
-# Unsupervised Expectation-Maximization Initialization for Mixture Models: A Complex Network Driven Approach for Modeling Financial Time Series
+# Optimization of Mixture Models on time series networks encoded by Visibility Graphs: An analysis of the US electricity market
 
 by
 Carlo Mari,
