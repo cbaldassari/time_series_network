@@ -4,7 +4,7 @@ by
 Carlo Mari,
 Cristiano Baldassari.
 
-This repository contains the code to reproduce all the results reported in the paper Unsupervised EM Initialization for Mixture Models: A Complex Network Driven Approach for Modeling Financial Time Series.
+This repository contains the code to reproduce all the results reported in the paper Optimization of Mixture Models on time series networks encoded by Visibility Graphs: An analysis of the US electricity market.
 
 ## Abstract
 We present a fully unsupervised network-based methodology for estimating Mixture Models on financial time series by maximum likelihood. By employing time series networks, we can use graph-structured infor-
