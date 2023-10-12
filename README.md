@@ -18,5 +18,7 @@ The provided Python [notebook](https://github.com/cbaldassari/time_series_networ
 ## Getting the code
 You can download a copy of all the files in this repository by cloning the
 [git](https://github.com/cbaldassari/time_series_network) repository:
+```
     git clone https://github.com/cbaldassari/time_series_network
+```
 or [download a zip archive](https://github.com/cbaldassari/time_series_network/archive/refs/heads/main.zip).
